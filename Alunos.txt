@@ -1,0 +1,11 @@
+Trabalho da UC Sistemas Distribuídos, 2022.2 - UNIFACS
+
+TEMA: CloudAMQP. Filas de mensagens no modelo publisher-subscriber.
+
+Componentes:
+
+1- Everton Nazaré do Sacramento - RA: 1272119075
+2 -Manuelle Reis - RA: 1272116405    
+3- Leonardo Oliveira - RA: 1272121620
+4- Rafael Lima - RA: 1272117553
+5- Ygor Pinto Gama - RA: 1272121369
