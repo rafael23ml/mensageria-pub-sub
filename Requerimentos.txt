@@ -1,7 +1,7 @@
 ⚠️Requerimentos
 
-Python language versão 3.11.0
-Package manager pip 22.3 ou easy_instal(última versão)
+Linguagem Python versão 3.11.0
+Gerenciador de pacotes pip 22.3 ou easy_instal(última versão)
 Pika versão 1.3.1
 
 📚Livrarias
